@@ -26,3 +26,7 @@ tools/mkrom/mkrom
 CppProperties.json
 .idea
 cmake-build-debug
+
+# --- macOS port: build artifacts, ROMs and local machine state ---
+*.app/
+.DS_Store
